@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Sunil Kumar",
+    "age": 12,
+    "phone": "9876543210",
+    "grade": "8"
+  },
+  {
+    "name": "Panvith",
+    "age": 10,
+    "phone": "9876543210",
+    "grade": "6"
+  },
+  {
+    "name": "Kushi",
+    "age": 11,
+    "phone": "9876543210",
+    "grade": "7"
+  },
+  {
+    "name": "Navya",
+    "age": 12,
+    "phone": "9876543210",
+    "grade": "8"
+  }
+]
